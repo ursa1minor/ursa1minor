@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ursula
-- 👀 I’m interested in art, coding, music and learning new stuff... 
+- 👀 I’m interested in coding, art, 3D, music and learning new stuff... 
 - 🌱 I’ve recently completed the Northcoders Software Development Bootcamp.
 
 <!---

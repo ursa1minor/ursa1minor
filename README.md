@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ursula
-- 👀 I’m interested in coding, art, 3D, music and learning new stuff... 
-- 🌱 I’ve recently completed the Northcoders Software Development Bootcamp.
+I recently completed @northcoders Software Development Bootcamp. 
+I'm a 3D modelling/scanning/printing specialist with many years' digital art experience.
 
 <!---
 ursa1minor/ursa1minor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
